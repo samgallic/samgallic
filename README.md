@@ -11,10 +11,7 @@ I'm currently pursuing a double major in **Computer Science** and **Mathematics*
 - **DecorGator**: Created the backend for an online furniture marketplace using **Go**, **MongoDB**, and **Amazon Web Services** for automated emails.
 
 ### 🛠️ Skills
-- **Languages**: Python, C++, C, Java, JavaScript, TypeScript, Go, ARM, R
-- **Machine Learning Tools**: PyTorch, TensorFlow, Scikit-Learn, Generative AI, GANs
-- **Frameworks & Libraries**: React, Flask, Node.js, Express.js, Gorilla Mux
-- **Developer Tools**: Git, GitHub, Jupyter Notebook, AWS, Postman
+![Python](https://skillicons.dev/icons?i=python) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript,ts) ![Go](https://skillicons.dev/icons?i=go) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![React](https://skillicons.dev/icons?i=react) ![Flask](https://skillicons.dev/icons?i=flask) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git)
 
 ### 🌱 Extracurriculars
 - **GAItor**: Member of the University of Florida’s AI club
