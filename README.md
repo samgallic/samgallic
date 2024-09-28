@@ -3,7 +3,7 @@
 I'm currently pursuing a double major in **Computer Science** and **Mathematics** at the **University of Florida**. My passion lies in **machine learning** and **software development**, with a focus on generative AI.
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />   <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />   <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />   <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />   <img src="https://skillicons.dev/icons?i=javascript,ts" width="40" height="40" alt="JavaScript, TypeScript" />  <br><br>
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />   <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />   <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />   <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />   <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /> <br><br>
 
 <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" />   <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />   <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />   <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />   <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" />  <br><br>
 
