@@ -3,7 +3,7 @@
 I'm currently pursuing a double major in **Computer Science** and **Mathematics** at the **University of Florida**. My passion lies in **machine learning** and **software development**, with a focus on generative AI.
 
 ### 🔬 Current Work
-- **Undergraduate Research Assistant** at the Machine Learning and Sensing Lab, working on a **U.S. Navy-funded project**. I'm experimenting with **deep learning models** such as **CycleGAN** to create domain translations for sonar data.
+- **Undergraduate Research Assistant** at the Machine Learning and Sensing Lab (GatorSense), working on a **U.S. Navy-funded project**. I'm experimenting with **deep learning models** such as **CycleGAN** to create domain translations for sonar data.
 
 ### 💻 Projects
 - **Budgeting App**: Developing a web app using **React** and **MongoDB** to help students manage their finances.
