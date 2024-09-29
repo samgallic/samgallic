@@ -37,7 +37,7 @@ I'm currently pursuing a double major in **Computer Science** and **Mathematics*
 
 ### 🛠️ Skills
 - **Languages**: Python, C++, C, Java, JavaScript, TypeScript, Go, ARM, R, HTML, CSS
-- **Machine Learning Tools**: PyTorch, TensorFlow, Scikit-Learn, Generative AI, GANs
+- **Machine Learning Tools**: PyTorch, TensorFlow, Scikit-Learn, Generative AI, GANs, Clustering
 - **Frameworks & Libraries**: React, Flask, Node.js, Express.js, Gorilla Mux
 - **Developer Tools**: Git, GitHub, Jupyter Notebook, AWS, Postman, MongoDB, SQL
 
