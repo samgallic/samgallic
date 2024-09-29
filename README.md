@@ -10,10 +10,10 @@ I'm currently pursuing a double major in **Computer Science** and **Mathematics*
 <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" /> 
 <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TypeScript" /> 
 <img src="https://skillicons.dev/icons?i=go" width="60" height="60" alt="Go" /> 
-<img src="https://skillicons.dev/icons?i=r" width="60" height="60" alt="R" /> 
+<img src="https://skillicons.dev/icons?i=r" width="60" height="60" alt="R" /> <br />
 <img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60" alt="PyTorch" /> 
 <img src="https://skillicons.dev/icons?i=sklearn" width="60" height="60" alt="SKLearn" /> 
-<img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" alt="TensorFlow" /> 
+<img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" alt="TensorFlow" /> <br />
 <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /> 
 <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="NodeJS" /> 
 <img src="https://skillicons.dev/icons?i=flask" width="60" height="60" alt="Flask" /> 
