@@ -3,8 +3,25 @@
 I'm currently pursuing a double major in **Computer Science** and **Mathematics** at the **University of Florida**. My passion lies in **machine learning** and **software development**, with a focus on generative AI.
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /> <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /> <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /> <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" /> <img src="https://skillicons.dev/icons?i=r" width="40" height="40" alt="R" /> <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /> <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="SKLearn" /> <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /> <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /> <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS" /> <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" /> <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /> <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="SQL" /> <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" /> <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="AWS" /> <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-
+<img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" /> 
+<img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="C" /> 
+<img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++" /> 
+<img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" /> 
+<img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" /> 
+<img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TypeScript" /> 
+<img src="https://skillicons.dev/icons?i=go" width="60" height="60" alt="Go" /> 
+<img src="https://skillicons.dev/icons?i=r" width="60" height="60" alt="R" /> 
+<img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60" alt="PyTorch" /> 
+<img src="https://skillicons.dev/icons?i=sklearn" width="60" height="60" alt="SKLearn" /> 
+<img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" alt="TensorFlow" /> 
+<img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /> 
+<img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="NodeJS" /> 
+<img src="https://skillicons.dev/icons?i=flask" width="60" height="60" alt="Flask" /> 
+<img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" /> 
+<img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="SQL" /> 
+<img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" /> 
+<img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="AWS" /> 
+<img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
 </div>
 
 ### 🔬 Current Work
