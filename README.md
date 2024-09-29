@@ -46,5 +46,4 @@ I'm currently pursuing a double major in **Computer Science** and **Mathematics*
 - **OUTDoors**: LGBTQ+ nature club
 
 Feel free to explore my repositories and click below for my LinkedIn! 
-<div align="center">
 [LinkedIn](https://linkedin.com/in/samgallic)
