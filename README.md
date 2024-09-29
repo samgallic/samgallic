@@ -47,4 +47,4 @@ I'm currently pursuing a double major in **Computer Science** and **Mathematics*
 
 Feel free to explore my repositories and click below for my LinkedIn! 
 <div align="center">
-[<img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />](https://linkedin.com/in/samgallic)
+[LinkedIn](https://linkedin.com/in/samgallic)
