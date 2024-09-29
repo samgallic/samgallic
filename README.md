@@ -14,6 +14,8 @@ I'm currently pursuing a double major in **Computer Science** and **Mathematics*
 <img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60" alt="PyTorch" /> 
 <img src="https://skillicons.dev/icons?i=sklearn" width="60" height="60" alt="SKLearn" /> 
 <img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" alt="TensorFlow" /> <br />
+<img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" /> 
+<img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" /> 
 <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /> 
 <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="NodeJS" /> 
 <img src="https://skillicons.dev/icons?i=flask" width="60" height="60" alt="Flask" /> 
