@@ -18,6 +18,7 @@ I'm currently pursuing a double major in **Computer Science** and **Mathematics*
 <img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" alt="TensorFlow" /> <br />
 <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /> 
 <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="NodeJS" /> 
+<img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="ExpressJS" /> 
 <img src="https://skillicons.dev/icons?i=flask" width="60" height="60" alt="Flask" /> <br />
 <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
 <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" /> 
@@ -38,7 +39,7 @@ I'm currently pursuing a double major in **Computer Science** and **Mathematics*
 - **Languages**: Python, C++, C, Java, JavaScript, TypeScript, Go, ARM, R, HTML, CSS
 - **Machine Learning Tools**: PyTorch, TensorFlow, Scikit-Learn, Generative AI, GANs
 - **Frameworks & Libraries**: React, Flask, Node.js, Express.js, Gorilla Mux
-- **Developer Tools**: Git, GitHub, Jupyter Notebook, AWS, Postman
+- **Developer Tools**: Git, GitHub, Jupyter Notebook, AWS, Postman, MongoDB, SQL
 
 ### 🌱 Extracurriculars
 - **GAItor**: Member of the University of Florida’s AI club
