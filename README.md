@@ -45,5 +45,6 @@ I'm currently pursuing a double major in **Computer Science** and **Mathematics*
 - **Swamp Launch**: Rocket testing club
 - **OUTDoors**: LGBTQ+ nature club
 
-Feel free to explore my repositories and connect with me on [<img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
-](https://linkedin.com/in/samgallic) or check out my [GitHub](https://github.com/samgallic) for more details on my projects!
+Feel free to explore my repositories and click below for my LinkedIn! 
+<div align="center">
+[<img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />](https://linkedin.com/in/samgallic)
