@@ -28,7 +28,7 @@ I'm currently pursuing a double major in **Computer Science** and **Mathematics*
 </div>
 
 ### 🔬 Current Work
-- **Undergraduate Research Assistant** at the Machine Learning and Sensing Lab (GatorSense), working on a **U.S. Navy-funded project**. I'm experimenting with **deep learning models** such as **CycleGAN**, **Gaussian Mixture Models**, and denoising models to create domain translations for sonar data. Primarily using **Pytorch** to provide results to advisors in weekly meetings.
+- **Undergraduate Research Assistant** at the Machine Learning and Sensing Lab (GatorSense), working on a **U.S. Navy-funded project**. I'm experimenting with **deep learning models** such as **CycleGAN**, **Gaussian Mixture Models**, and denoising models to create domain translations for sonar data. Primarily using **Pytorch** and **Scikit-Learn** to provide results to advisors in weekly meetings.
 
 ### 💻 Projects
 - **Morphological Neural Networks**: Working on a project to create a novel, learnable hit-miss transformation using **Pytorch** for possible publication.
