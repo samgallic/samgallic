@@ -1,6 +1,6 @@
 # Hi, I'm Sam Gallic 👋
 
-I'm currently pursuing a double major in **Computer Science** and **Mathematics** at the **University of Florida**. My passion lies in **machine learning** and **software development**, with a focus on generative AI.
+I'm currently pursuing a M.S. in **Electrical and Computer Engineering** at the **University of Florida**. My passion lies in **machine learning** and **software development**, with a focus on generative AI.
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" /> 
