@@ -1,49 +1,90 @@
 # Hi, I'm Sam Gallic 👋
 
-I'm currently pursuing a M.S. in **Electrical and Computer Engineering** at the **University of Florida**. My passion lies in **machine learning** and **software development**, with a focus on generative AI.
+I'm an M.S. student in **Electrical and Computer Engineering** at the **University of Florida** specializing in **machine learning** and **applied AI**.
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" /> 
-<img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="C" /> 
-<img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++" /> 
-<img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" /> 
-<img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" /> 
-<img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TypeScript" /> 
-<img src="https://skillicons.dev/icons?i=go" width="60" height="60" alt="Go" /> 
-<img src="https://skillicons.dev/icons?i=r" width="60" height="60" alt="R" />
-<img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" /> 
-<img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" /> <br />
-<img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60" alt="PyTorch" /> 
-<img src="https://skillicons.dev/icons?i=sklearn" width="60" height="60" alt="SKLearn" /> 
-<img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" alt="TensorFlow" /> <br />
-<img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /> 
-<img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="NodeJS" /> 
-<img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="ExpressJS" /> 
-<img src="https://skillicons.dev/icons?i=flask" width="60" height="60" alt="Flask" /> <br />
-<img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
-<img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" /> 
-<img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="AWS" /> 
-<img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
-</div>
+My interests include machine learning systems, graph learning, computer vision, forecasting, and deploying models that solve real-world problems. I'm currently a Graduate Research Assistant in the Machine Learning and Sensing Lab and recently worked as a **Finance Data Science Intern at American Express**, developing machine learning models for enterprise credit forecasting.
 
-### 🔬 Current Work
-- **Undergraduate Research Assistant** at the Machine Learning and Sensing Lab (GatorSense), working on a **U.S. Navy-funded project**. I'm experimenting with **deep learning models** such as **CycleGAN**, **Gaussian Mixture Models**, and denoising models to create domain translations for sonar data. Primarily using **Pytorch** and **Scikit-Learn** to provide results to advisors in weekly meetings.
+---
 
-### 💻 Projects
-- **Morphological Neural Networks**: Working on a project to create a novel, learnable hit-miss transformation using **Pytorch** for possible publication.
-- **AI Book Recommender**: Built a Python-based book recommendation system using **Scikit-Learn** and a dataset of over 10,000 books.
-- **DecorGator**: Created the backend for an online furniture marketplace using **Go**, **MongoDB**, and **Amazon Web Services** for automated emails.
+## 🔬 Experience
 
-### 🛠️ Skills
-- **Languages**: Python, C++, C, Java, JavaScript, TypeScript, Go, ARM, R, HTML, CSS
-- **Machine Learning Tools**: PyTorch, TensorFlow, Scikit-Learn, Generative AI, GANs, Clustering
-- **Frameworks & Libraries**: React, Flask, Node.js, Express.js, Gorilla Mux
-- **Developer Tools**: Git, GitHub, Jupyter Notebook, AWS, Postman, MongoDB, SQL
+### American Express — Finance Data Science Intern
+**Summer 2026**
 
-### 🌱 Extracurriculars
-- **GAItor**: Member of the University of Florida’s AI club
-- **Swamp Launch**: Rocket testing club
-- **OUTDoors**: LGBTQ+ nature club
+- Built machine learning pipelines for enterprise credit lending forecasting
+- Developed XGBoost forecasting models as proof-of-concept alternatives to existing methods
+- Identified and eliminated temporal data leakage in production forecasting pipelines
+- Performed feature importance analysis to improve model interpretability
+- Worked with finance data scientists and directors on large-scale forecasting systems
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://linkedin.com/in/samgallic)!
+### University of Florida Machine Learning & Sensing Lab
+
+**Graph Neural Networks for Agricultural Supply Chains**
+- Developing graph-based machine learning models with agricultural economists
+- Building SQL data pipelines and graph construction workflows
+- Researching constrained graph learning for economic systems
+
+**U.S. Navy Sonar Research**
+- Developed deep learning models for sonar domain translation
+- Worked with CycleGANs, GANs, Gaussian Mixture Models, and PyTorch
+- Accelerated training pipelines using CUDA and multi-GPU computing
+- Presented research to the Office of Naval Research
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 Graph Learning for Agricultural Supply Chains
+Graph neural networks for modeling transportation and inventory dynamics under economic constraints.
+
+**Tech:** PyTorch • SQL • Graph Neural Networks
+
+---
+
+### 🌊 Sonar Domain Translation
+Deep learning models for translating sonar imagery across sensing domains.
+
+**Tech:** PyTorch • GANs • CUDA • HPC
+
+---
+
+### 📚 AI Book Recommender
+Content-based recommendation engine trained on 10,000+ books.
+
+**Tech:** Python • Scikit-Learn
+
+---
+
+### 🛋️ DecorGator
+Marketplace backend with REST APIs, authentication, and cloud deployment.
+
+**Tech:** Go • MongoDB • AWS
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+Python • C++ • C • Java • JavaScript • TypeScript • Go • MATLAB • SQL
+
+### Machine Learning
+PyTorch • Scikit-Learn • XGBoost • TensorFlow • GANs • Graph Neural Networks
+
+### Data & MLOps
+SQL • BigQuery • Google Cloud • Comet ML • Weights & Biases
+
+### Developer Tools
+Git • GitHub • Linux • CUDA • Jupyter • AWS
+
+---
+
+## 🌱 Interests
+
+Outside of research, I enjoy building side projects, exploring New York coffee shops, reading classic literature, and learning about recommender systems and applied machine learning.
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/samgallic
+- GitHub: https://github.com/samgallic
