@@ -80,7 +80,7 @@ Git • GitHub • Linux • CUDA • Jupyter • AWS
 
 ## 🌱 Interests
 
-Outside of research, I enjoy building side projects, exploring New York coffee shops, reading classic literature, and learning about recommender systems and applied machine learning.
+Outside of research, I enjoy building side projects, exploring coffee shops, reading classic literature, and learning about recommender systems and applied machine learning.
 
 ---
 
